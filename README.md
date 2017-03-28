@@ -6,7 +6,7 @@ The library can be loaded as CommonJS module, AMD module, or as a regular javasc
 
 Supported browsers: Chrome, Firefox, Safari, Opera, Internet Explorer 9+.
 
-<img alt="drop-down tree" src="imageURL">
+<img alt="drop-down tree" src="https://github.com/patidar-suresh/dropdown-tree/blob/master/example-img/example.PNG">
 
 
 ## Features
